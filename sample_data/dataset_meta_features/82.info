@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Chase'
+task = 'multilabel.classification'
+target_type = 'Binary'
+feat_type = 'Mixed'
+metric = 'r2_metric'
+time_budget = 400
+feat_num = 96
+target_num = 7
+label_num = 9
+train_num = 31647
+valid_num = 59746
+test_num = 12646
+has_categorical = 1
+has_missing = 0
+is_sparse = 0

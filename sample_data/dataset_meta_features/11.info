@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Gregory'
+task = 'multiclass.classification'
+target_type = 'Categorical'
+feat_type = 'Binary'
+metric = 'f1_metric'
+time_budget = 100
+feat_num = 21
+target_num = 4
+label_num = 3
+train_num = 77324
+valid_num = 33870
+test_num = 58932
+has_categorical = 0
+has_missing = 1
+is_sparse = 0

@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Katie'
+task = 'multilabel.classification'
+target_type = 'Categorical'
+feat_type = 'Categorical'
+metric = 'a_metric'
+time_budget = 500
+feat_num = 1
+target_num = 6
+label_num = 2
+train_num = 93911
+valid_num = 14266
+test_num = 40166
+has_categorical = 1
+has_missing = 1
+is_sparse = 1

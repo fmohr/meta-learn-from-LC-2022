@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Maria'
+task = 'binary.classification'
+target_type = 'Categorical'
+feat_type = 'Binary'
+metric = 'auc_metric'
+time_budget = 1400
+feat_num = 31
+target_num = 8
+label_num = 8
+train_num = 89434
+valid_num = 82419
+test_num = 17822
+has_categorical = 1
+has_missing = 1
+is_sparse = 1

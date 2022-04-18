@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Sharon'
+task = 'binary.classification'
+target_type = 'Binary'
+feat_type = 'Mixed'
+metric = 'a_metric'
+time_budget = 600
+feat_num = 20
+target_num = 2
+label_num = 3
+train_num = 38634
+valid_num = 66852
+test_num = 98850
+has_categorical = 0
+has_missing = 0
+is_sparse = 1

@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Rachel'
+task = 'multilabel.classification'
+target_type = 'Categorical'
+feat_type = 'Binary'
+metric = 'f1_metric'
+time_budget = 500
+feat_num = 63
+target_num = 6
+label_num = 1
+train_num = 36045
+valid_num = 41422
+test_num = 28466
+has_categorical = 0
+has_missing = 0
+is_sparse = 0

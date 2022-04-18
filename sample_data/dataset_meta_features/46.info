@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Barry'
+task = 'binary.classification'
+target_type = 'Categorical'
+feat_type = 'Categorical'
+metric = 'bac_metric'
+time_budget = 200
+feat_num = 24
+target_num = 7
+label_num = 10
+train_num = 61724
+valid_num = 78127
+test_num = 52520
+has_categorical = 0
+has_missing = 0
+is_sparse = 1

@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Jennifer'
+task = 'binary.classification'
+target_type = 'Categorical'
+feat_type = 'Binary'
+metric = 'r2_metric'
+time_budget = 100
+feat_num = 64
+target_num = 7
+label_num = 2
+train_num = 95943
+valid_num = 55398
+test_num = 1671
+has_categorical = 0
+has_missing = 1
+is_sparse = 0

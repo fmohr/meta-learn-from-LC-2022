@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Kevin'
+task = 'binary.classification'
+target_type = 'Categorical'
+feat_type = 'Mixed'
+metric = 'pac_metric'
+time_budget = 900
+feat_num = 34
+target_num = 3
+label_num = 8
+train_num = 30938
+valid_num = 22790
+test_num = 67969
+has_categorical = 0
+has_missing = 1
+is_sparse = 1

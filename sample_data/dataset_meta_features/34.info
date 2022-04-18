@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Lisa'
+task = 'multiclass.classification'
+target_type = 'Numerical'
+feat_type = 'Categorical'
+metric = 'bac_metric'
+time_budget = 200
+feat_num = 8
+target_num = 3
+label_num = 3
+train_num = 42878
+valid_num = 62055
+test_num = 92726
+has_categorical = 0
+has_missing = 0
+is_sparse = 1

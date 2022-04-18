@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Jason'
+task = 'binary.classification'
+target_type = 'Numerical'
+feat_type = 'Binary'
+metric = 'f1_metric'
+time_budget = 400
+feat_num = 35
+target_num = 3
+label_num = 5
+train_num = 48404
+valid_num = 58472
+test_num = 52925
+has_categorical = 0
+has_missing = 0
+is_sparse = 0

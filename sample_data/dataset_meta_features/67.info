@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Jacob'
+task = 'multiclass.classification'
+target_type = 'Binary'
+feat_type = 'Mixed'
+metric = 'bac_metric'
+time_budget = 600
+feat_num = 72
+target_num = 1
+label_num = 6
+train_num = 79519
+valid_num = 69757
+test_num = 69873
+has_categorical = 0
+has_missing = 0
+is_sparse = 1

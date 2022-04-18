@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Meredith'
+task = 'multilabel.classification'
+target_type = 'Numerical'
+feat_type = 'Binary'
+metric = 'auc_metric'
+time_budget = 1300
+feat_num = 28
+target_num = 6
+label_num = 3
+train_num = 3939
+valid_num = 23614
+test_num = 82435
+has_categorical = 0
+has_missing = 1
+is_sparse = 0

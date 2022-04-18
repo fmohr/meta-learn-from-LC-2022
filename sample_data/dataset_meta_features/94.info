@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Heather'
+task = 'binary.classification'
+target_type = 'Numerical'
+feat_type = 'Numerical'
+metric = 'f1_metric'
+time_budget = 1300
+feat_num = 14
+target_num = 2
+label_num = 3
+train_num = 26171
+valid_num = 57878
+test_num = 18017
+has_categorical = 0
+has_missing = 1
+is_sparse = 1

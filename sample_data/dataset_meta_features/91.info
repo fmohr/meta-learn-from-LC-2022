@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Barbara'
+task = 'regression'
+target_type = 'Categorical'
+feat_type = 'Binary'
+metric = 'r2_metric'
+time_budget = 500
+feat_num = 33
+target_num = 5
+label_num = 8
+train_num = 76879
+valid_num = 68696
+test_num = 31138
+has_categorical = 0
+has_missing = 0
+is_sparse = 1

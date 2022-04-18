@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Jaime'
+task = 'multiclass.classification'
+target_type = 'Binary'
+feat_type = 'Binary'
+metric = 'bac_metric'
+time_budget = 1100
+feat_num = 19
+target_num = 9
+label_num = 6
+train_num = 99714
+valid_num = 42209
+test_num = 70806
+has_categorical = 0
+has_missing = 0
+is_sparse = 1

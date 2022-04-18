@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Jesse'
+task = 'multilabel.classification'
+target_type = 'Categorical'
+feat_type = 'Mixed'
+metric = 'bac_metric'
+time_budget = 500
+feat_num = 39
+target_num = 9
+label_num = 7
+train_num = 73816
+valid_num = 7771
+test_num = 36015
+has_categorical = 1
+has_missing = 0
+is_sparse = 1

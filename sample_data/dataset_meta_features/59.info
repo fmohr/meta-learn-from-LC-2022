@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Steven'
+task = 'binary.classification'
+target_type = 'Numerical'
+feat_type = 'Numerical'
+metric = 'auc_metric'
+time_budget = 1000
+feat_num = 7
+target_num = 8
+label_num = 1
+train_num = 96674
+valid_num = 46743
+test_num = 88510
+has_categorical = 0
+has_missing = 0
+is_sparse = 1

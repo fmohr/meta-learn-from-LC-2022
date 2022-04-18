@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Maxwell'
+task = 'multiclass.classification'
+target_type = 'Categorical'
+feat_type = 'Categorical'
+metric = 'r2_metric'
+time_budget = 400
+feat_num = 63
+target_num = 1
+label_num = 8
+train_num = 92204
+valid_num = 82998
+test_num = 40776
+has_categorical = 0
+has_missing = 1
+is_sparse = 0

@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Hannah'
+task = 'multilabel.classification'
+target_type = 'Numerical'
+feat_type = 'Binary'
+metric = 'a_metric'
+time_budget = 500
+feat_num = 33
+target_num = 6
+label_num = 9
+train_num = 45357
+valid_num = 8458
+test_num = 98905
+has_categorical = 0
+has_missing = 1
+is_sparse = 1

@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Donna'
+task = 'multiclass.classification'
+target_type = 'Categorical'
+feat_type = 'Binary'
+metric = 'f1_metric'
+time_budget = 300
+feat_num = 35
+target_num = 8
+label_num = 3
+train_num = 93838
+valid_num = 89930
+test_num = 32626
+has_categorical = 1
+has_missing = 1
+is_sparse = 0

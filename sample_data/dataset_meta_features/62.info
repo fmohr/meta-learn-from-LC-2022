@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Melody'
+task = 'binary.classification'
+target_type = 'Numerical'
+feat_type = 'Numerical'
+metric = 'auc_metric'
+time_budget = 600
+feat_num = 14
+target_num = 9
+label_num = 10
+train_num = 13300
+valid_num = 1748
+test_num = 56635
+has_categorical = 1
+has_missing = 1
+is_sparse = 1

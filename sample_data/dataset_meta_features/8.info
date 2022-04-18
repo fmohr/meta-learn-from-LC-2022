@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Tammy'
+task = 'multilabel.classification'
+target_type = 'Categorical'
+feat_type = 'Binary'
+metric = 'pac_metric'
+time_budget = 300
+feat_num = 66
+target_num = 4
+label_num = 6
+train_num = 24817
+valid_num = 56848
+test_num = 86522
+has_categorical = 0
+has_missing = 0
+is_sparse = 1

@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Devin'
+task = 'regression'
+target_type = 'Numerical'
+feat_type = 'Numerical'
+metric = 'pac_metric'
+time_budget = 400
+feat_num = 42
+target_num = 1
+label_num = 10
+train_num = 81238
+valid_num = 86486
+test_num = 51181
+has_categorical = 1
+has_missing = 1
+is_sparse = 1

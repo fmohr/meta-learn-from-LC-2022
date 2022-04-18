@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Gerald'
+task = 'binary.classification'
+target_type = 'Numerical'
+feat_type = 'Mixed'
+metric = 'f1_metric'
+time_budget = 1200
+feat_num = 68
+target_num = 1
+label_num = 5
+train_num = 72376
+valid_num = 88781
+test_num = 60857
+has_categorical = 1
+has_missing = 0
+is_sparse = 0

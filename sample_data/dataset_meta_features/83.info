@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Dennis'
+task = 'binary.classification'
+target_type = 'Numerical'
+feat_type = 'Numerical'
+metric = 'bac_metric'
+time_budget = 1200
+feat_num = 11
+target_num = 9
+label_num = 8
+train_num = 99340
+valid_num = 99633
+test_num = 92601
+has_categorical = 1
+has_missing = 0
+is_sparse = 1

@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Rodney'
+task = 'multiclass.classification'
+target_type = 'Binary'
+feat_type = 'Binary'
+metric = 'auc_metric'
+time_budget = 300
+feat_num = 81
+target_num = 8
+label_num = 10
+train_num = 46877
+valid_num = 15080
+test_num = 51819
+has_categorical = 0
+has_missing = 0
+is_sparse = 0

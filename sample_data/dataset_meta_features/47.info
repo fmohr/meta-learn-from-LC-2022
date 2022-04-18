@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'David'
+task = 'binary.classification'
+target_type = 'Binary'
+feat_type = 'Categorical'
+metric = 'f1_metric'
+time_budget = 200
+feat_num = 33
+target_num = 3
+label_num = 8
+train_num = 21608
+valid_num = 69738
+test_num = 59580
+has_categorical = 0
+has_missing = 1
+is_sparse = 0

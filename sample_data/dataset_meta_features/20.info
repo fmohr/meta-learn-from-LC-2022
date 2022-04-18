@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Jeremiah'
+task = 'regression'
+target_type = 'Numerical'
+feat_type = 'Numerical'
+metric = 'pac_metric'
+time_budget = 200
+feat_num = 26
+target_num = 6
+label_num = 2
+train_num = 40849
+valid_num = 48878
+test_num = 36407
+has_categorical = 1
+has_missing = 0
+is_sparse = 1

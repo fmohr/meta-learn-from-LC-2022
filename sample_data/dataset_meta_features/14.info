@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Michelle'
+task = 'multiclass.classification'
+target_type = 'Binary'
+feat_type = 'Numerical'
+metric = 'a_metric'
+time_budget = 500
+feat_num = 79
+target_num = 1
+label_num = 10
+train_num = 23185
+valid_num = 74240
+test_num = 46480
+has_categorical = 0
+has_missing = 1
+is_sparse = 1

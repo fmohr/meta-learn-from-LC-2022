@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Dana'
+task = 'multilabel.classification'
+target_type = 'Binary'
+feat_type = 'Binary'
+metric = 'f1_metric'
+time_budget = 1000
+feat_num = 29
+target_num = 2
+label_num = 2
+train_num = 73040
+valid_num = 16241
+test_num = 45123
+has_categorical = 0
+has_missing = 1
+is_sparse = 1

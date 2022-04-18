@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Deborah'
+task = 'multilabel.classification'
+target_type = 'Numerical'
+feat_type = 'Binary'
+metric = 'f1_metric'
+time_budget = 600
+feat_num = 1
+target_num = 2
+label_num = 7
+train_num = 59358
+valid_num = 9399
+test_num = 15815
+has_categorical = 1
+has_missing = 0
+is_sparse = 0

@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Mark'
+task = 'multilabel.classification'
+target_type = 'Binary'
+feat_type = 'Binary'
+metric = 'bac_metric'
+time_budget = 300
+feat_num = 95
+target_num = 2
+label_num = 6
+train_num = 41043
+valid_num = 70350
+test_num = 75794
+has_categorical = 0
+has_missing = 1
+is_sparse = 0

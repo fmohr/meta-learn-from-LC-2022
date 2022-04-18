@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Sean'
+task = 'binary.classification'
+target_type = 'Categorical'
+feat_type = 'Binary'
+metric = 'r2_metric'
+time_budget = 1200
+feat_num = 42
+target_num = 6
+label_num = 1
+train_num = 25185
+valid_num = 54677
+test_num = 11193
+has_categorical = 0
+has_missing = 1
+is_sparse = 1

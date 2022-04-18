@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Holly'
+task = 'multilabel.classification'
+target_type = 'Binary'
+feat_type = 'Categorical'
+metric = 'f1_metric'
+time_budget = 400
+feat_num = 2
+target_num = 5
+label_num = 7
+train_num = 51773
+valid_num = 6297
+test_num = 69976
+has_categorical = 1
+has_missing = 1
+is_sparse = 1

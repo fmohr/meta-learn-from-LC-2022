@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Megan'
+task = 'regression'
+target_type = 'Binary'
+feat_type = 'Categorical'
+metric = 'pac_metric'
+time_budget = 700
+feat_num = 86
+target_num = 5
+label_num = 8
+train_num = 21207
+valid_num = 78502
+test_num = 87331
+has_categorical = 0
+has_missing = 0
+is_sparse = 0

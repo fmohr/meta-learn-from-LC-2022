@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Troy'
+task = 'regression'
+target_type = 'Categorical'
+feat_type = 'Numerical'
+metric = 'r2_metric'
+time_budget = 1200
+feat_num = 88
+target_num = 10
+label_num = 2
+train_num = 45603
+valid_num = 59006
+test_num = 46774
+has_categorical = 0
+has_missing = 1
+is_sparse = 0

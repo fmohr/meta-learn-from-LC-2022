@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Susan'
+task = 'multiclass.classification'
+target_type = 'Binary'
+feat_type = 'Binary'
+metric = 'f1_metric'
+time_budget = 1100
+feat_num = 84
+target_num = 1
+label_num = 7
+train_num = 3815
+valid_num = 62185
+test_num = 51342
+has_categorical = 0
+has_missing = 1
+is_sparse = 0

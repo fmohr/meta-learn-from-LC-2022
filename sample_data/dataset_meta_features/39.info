@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Julie'
+task = 'multilabel.classification'
+target_type = 'Numerical'
+feat_type = 'Categorical'
+metric = 'auc_metric'
+time_budget = 400
+feat_num = 31
+target_num = 9
+label_num = 7
+train_num = 7644
+valid_num = 7638
+test_num = 51714
+has_categorical = 0
+has_missing = 0
+is_sparse = 0

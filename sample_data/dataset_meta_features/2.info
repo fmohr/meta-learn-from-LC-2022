@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Brian'
+task = 'multilabel.classification'
+target_type = 'Binary'
+feat_type = 'Binary'
+metric = 'a_metric'
+time_budget = 800
+feat_num = 48
+target_num = 4
+label_num = 9
+train_num = 94300
+valid_num = 85015
+test_num = 95066
+has_categorical = 0
+has_missing = 0
+is_sparse = 0

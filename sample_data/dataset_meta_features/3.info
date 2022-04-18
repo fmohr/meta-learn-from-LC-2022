@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Lauren'
+task = 'regression'
+target_type = 'Categorical'
+feat_type = 'Binary'
+metric = 'auc_metric'
+time_budget = 1200
+feat_num = 33
+target_num = 9
+label_num = 8
+train_num = 83536
+valid_num = 45917
+test_num = 47164
+has_categorical = 0
+has_missing = 1
+is_sparse = 0

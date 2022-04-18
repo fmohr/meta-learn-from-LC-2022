@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Larry'
+task = 'multilabel.classification'
+target_type = 'Categorical'
+feat_type = 'Mixed'
+metric = 'a_metric'
+time_budget = 600
+feat_num = 57
+target_num = 10
+label_num = 10
+train_num = 28069
+valid_num = 90608
+test_num = 71966
+has_categorical = 0
+has_missing = 1
+is_sparse = 1

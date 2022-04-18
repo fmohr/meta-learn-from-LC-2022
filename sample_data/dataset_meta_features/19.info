@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Christina'
+task = 'regression'
+target_type = 'Categorical'
+feat_type = 'Mixed'
+metric = 'pac_metric'
+time_budget = 1300
+feat_num = 50
+target_num = 9
+label_num = 4
+train_num = 82732
+valid_num = 95760
+test_num = 68180
+has_categorical = 0
+has_missing = 0
+is_sparse = 1

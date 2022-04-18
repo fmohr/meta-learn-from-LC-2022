@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Heidi'
+task = 'binary.classification'
+target_type = 'Categorical'
+feat_type = 'Mixed'
+metric = 'auc_metric'
+time_budget = 900
+feat_num = 12
+target_num = 9
+label_num = 2
+train_num = 81301
+valid_num = 17819
+test_num = 52053
+has_categorical = 0
+has_missing = 0
+is_sparse = 0

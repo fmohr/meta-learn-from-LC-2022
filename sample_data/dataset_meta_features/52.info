@@ -1,0 +1,16 @@
+usage = 'AutoML challenge 2014'
+name = 'Austin'
+task = 'regression'
+target_type = 'Binary'
+feat_type = 'Binary'
+metric = 'bac_metric'
+time_budget = 300
+feat_num = 74
+target_num = 7
+label_num = 9
+train_num = 23562
+valid_num = 20487
+test_num = 87908
+has_categorical = 1
+has_missing = 1
+is_sparse = 1
